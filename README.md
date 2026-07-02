@@ -14,6 +14,12 @@ A modern, responsive, and interactive personal portfolio website built using **H
 ### Skills
 ![Skills](assets/Skills.png)
 
+### Projects
+![Project](assets/Project.png)
+
+### Education
+![Education](assets/Education.png)
+
 ### Contact
 ![Contact](assets/Contact.png)
 
@@ -104,7 +110,14 @@ Simply open `index.html` in your browser or use the **Live Server** extension in
 # 💼 Featured Projects
 
 * 💰 Expense Tracker
+* 
+  ### Expense-Trekker
+  ![Expense-Trekker](assets/Expense-Trekker.png)
+  
 * 🌐 Personal Portfolio
+
+  ### Portfolio
+  ![Portfolio](assets/Portfolio.png)
 
 More projects will be added as I continue my software engineering journey.
 
