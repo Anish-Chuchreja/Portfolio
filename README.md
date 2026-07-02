@@ -104,7 +104,6 @@ Simply open `index.html` in your browser or use the **Live Server** extension in
 # 💼 Featured Projects
 
 * 💰 Expense Tracker
-* 🌦️ Weather Application
 * 🌐 Personal Portfolio
 
 More projects will be added as I continue my software engineering journey.
