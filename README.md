@@ -2,29 +2,21 @@
 
 A modern, responsive, and interactive personal portfolio website built using **HTML5, CSS3, and JavaScript**. This portfolio showcases my skills, projects, education, and professional profile while providing an elegant user experience across all devices.
 
-## 🌐 Live Demo
 
-> Add your deployed portfolio link here after deployment.
+## 📸 Preview
 
-```
-https://your-portfolio-link.com
-```
+### Home
+![Home](assets/home.png)
 
----
+### About
+![About](assets/About.png)
 
-# 📸 Preview
+### Skills
+![Skills](assets/Skills.png)
 
-> Add screenshots of your portfolio here.
+### Contact
+![Contact](assets/Contact.png)
 
-```
-images/
-├── home.png
-├── about.png
-├── projects.png
-└── contact.png
-```
-
----
 
 # ✨ Features
 
@@ -68,12 +60,9 @@ Professional-Portfolio/
 │   ├── profile.jpg
 │   ├── resume.pdf
 │   └── favicon.png
-│
-├── images/
 │   ├── expense-tracker.png
 │   ├── portfolio.png
 │   └── weather-app.png
-│
 └── README.md
 ```
 
