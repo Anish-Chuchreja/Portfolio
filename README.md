@@ -62,7 +62,6 @@ Professional-Portfolio/
 │   └── favicon.png
 │   ├── expense-tracker.png
 │   ├── portfolio.png
-│   └── weather-app.png
 └── README.md
 ```
 
