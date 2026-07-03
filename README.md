@@ -15,7 +15,7 @@ A modern, responsive, and interactive personal portfolio website built using **H
 ![Skills](assets/Skills.png)
 
 ### Projects
-![Project](assets/Project.png)
+![Project](Project.png)
 
 ### Education
 ![Education](assets/Education.png)
