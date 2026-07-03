@@ -112,7 +112,7 @@ Simply open `index.html` in your browser or use the **Live Server** extension in
 * 💰 Expense Tracker
 * 
   ### Expense-Trekker
-  ![Expense-Trekker](C:\Users\DELL\OneDrive\Desktop\Coding\Python\EXPENSE_TREKKER\assets\images\Dashboard.png)
+  ![Expense-Trekker](Desktop\Coding\Python\EXPENSE_TREKKER\assets\images\Dashboard.png)
   
 * 🌐 Personal Portfolio
 
