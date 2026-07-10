@@ -146,7 +146,7 @@ I am **Anish Chuchreja**, a Computer Science Engineering student passionate abou
 
 **Email:** [Anish260907@gmail.com](mailto:Anish260907@gmail.com)
 
-**LinkedIn:** https://www.linkedin.com/in/anish-chuchreja-73573a3a3
+**LinkedIn:** https://www.linkedin.com/in/anish-chuchreja
 
 **GitHub:** https://github.com/Anish-Chuchreja
 
