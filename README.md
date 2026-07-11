@@ -8,6 +8,9 @@ A modern, responsive, and interactive personal portfolio website built using **H
 ### Home
 ![Home](assets/home.png)
 
+Update profile image
+
+
 ### About
 ![About](assets/About.png)
 
@@ -16,6 +19,8 @@ A modern, responsive, and interactive personal portfolio website built using **H
 
 ### Projects
 ![Project](Projects.png)
+
+Update profile image
 
 ### Education
 ![Education](assets/Education.png)
@@ -118,6 +123,8 @@ Simply open `index.html` in your browser or use the **Live Server** extension in
 
   ### Portfolio
   ![Portfolio](assets/Portfolio.png)
+
+  Changes Profile image
 
 More projects will be added as I continue my software engineering journey.
 
